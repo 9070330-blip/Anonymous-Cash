@@ -1,5 +1,5 @@
-```text
-telethon
+pyrogram
+tgcrypto
 python-dotenv
-```
+
 
